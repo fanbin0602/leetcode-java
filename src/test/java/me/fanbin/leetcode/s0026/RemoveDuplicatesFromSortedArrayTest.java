@@ -1,4 +1,4 @@
-package me.fanbin.leetcode;
+package me.fanbin.leetcode.s0026;
 
 import me.fanbin.leetcode.s0026.RemoveDuplicatesFromSortedArray;
 import org.junit.Assert;
