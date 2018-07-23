@@ -1,4 +1,4 @@
-package me.fanbin.leetcode;
+package me.fanbin.leetcode.s0035;
 
 import me.fanbin.leetcode.s0035.SearchInsertPosition;
 import org.junit.Assert;
